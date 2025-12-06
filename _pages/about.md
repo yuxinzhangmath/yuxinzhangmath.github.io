@@ -4,7 +4,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-use_math: true
 ---
 
 I'm a Ph.D. candidate at [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn) (AMSS, CAS).
