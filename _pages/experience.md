@@ -33,7 +33,7 @@ author_profile: true
 * Zhong Youchu Special Scholarship for Outstanding Student in Math, Sun Yat-sen University, 2017 - 2018
 
 
-# Referee
+# Refereeing
 
-* Journal:
+* Journal: [Quantum](https://quantum-journal.org/)
 * Conference: [STOC'26](https://acm-stoc.org/stoc2026/), [QIP'26](https://qip2026.lu.lv/), [QIP'25](https://rsvp.duke.edu/event/qip2025/home), [AQIS'25](http://aqis-conf.org/2025/)
