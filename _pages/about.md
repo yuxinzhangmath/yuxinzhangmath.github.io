@@ -16,8 +16,6 @@ zhangyuxin at amss.ac.cn
 
 zhangyuxin *at* amss.ac.cn
 
-zhangyuxin [at] amss[dot]ac[dot]cn
-
 
 # Papers
 *Authors are listed alphabetically unless marked with$^\star$*
@@ -38,9 +36,6 @@ with C. Shao
 
 
 
-
-
 ### Contact
 Email: zhangyuxin [at] amss.ac.cn
 
-Email: zhangyuxin [at] amss[dot]ac[dot]cn
