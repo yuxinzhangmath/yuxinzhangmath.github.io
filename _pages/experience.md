@@ -16,7 +16,7 @@ author_profile: true
    * Visiting PhD Student, with [Jérémie Roland](http://quic.ulb.ac.be/members/jroland) and [Simon Apers](https://simonapers.github.io), May 2025 - 
 
 * Sun Yat-sen University
-   * B.S. in Mathematics, School of Mathematics, August 2017 - June 2021
+   * B.S. in Mathematics (Outstanding Graduate), School of Mathematics, August 2017 - June 2021
    * National Program for Top-notch Undergraduate in Basic Sciences, Yat-Sen Honor School, 2018 - 2021
  
 * University of California, Berkeley
