@@ -12,6 +12,8 @@ author_profile: true
     * Ph.D. in Mathematics
     * Supervisors: [Changpeng Shao](https://changpeng-shao.github.io/) and Hongbo Li
 
-* School of Mathematics, Sun Yat-sen University
+* Sun Yat-sen University
+   * Bachelor in Mathematics, School of Mathematics
+   * 
 
 # test
