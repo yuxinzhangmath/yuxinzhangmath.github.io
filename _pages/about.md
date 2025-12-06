@@ -19,11 +19,12 @@ My current research focuses on quantum algorithms and quantum complexity theory,
 
 
 *Randomized quantum singular value transformation$^{\star}$
+
 -Randomized quantum singular value transformation$^{\star}$
-  -Randomized quantum singular value transformation$^{\star}$
+    -Randomized quantum singular value transformation$^{\star}$
 
 *Randomized quantum singular value transformation$^{\star}$
-  *Randomized quantum singular value transformation$^{\star}$
+    *Randomized quantum singular value transformation$^{\star}$
 
 
 
