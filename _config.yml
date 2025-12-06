@@ -33,7 +33,7 @@ author:
   email            : # "none@example.org" 
 
   # Academic websites
-  academia         : "https://scholar.google.com/citations?hl=en&user=GpT1gWQAAAAJ&view_op=list_works&sortby=pubdate"
+  academia         : # URL
   arxiv            : "http://arxiv.org/a/zhang_y_53"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=GpT1gWQAAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      : # URL
