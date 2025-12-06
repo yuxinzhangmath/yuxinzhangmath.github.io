@@ -15,19 +15,9 @@ My current research focuses on quantum algorithms and quantum complexity theory,
 
 
 # Papers
-(Authors are listed alphabetically unless marked with $^\star$)
-
-(Authors are listed alphabetically unless marked with$^\star$)
-
 *Authors are listed alphabetically unless marked with $^\star$*
 
 *Authors are listed alphabetically unless marked with$^\star$*
-
-(Authors are listed alphabetically unless marked with $^\*)
-
-(Authors are listed alphabetically unless marked with $\star$)
-
-(Authors are listed alphabetically unless marked with $\*$)
 
 *(Authors are listed alphabetically unless marked with $^\star$)*
 
