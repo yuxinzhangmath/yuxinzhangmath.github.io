@@ -22,6 +22,7 @@ My current research focuses on quantum algorithms and quantum complexity theory,
 *(Authors are listed alphabetically unless marked with $^\star$)*
 
 $2\pi \mathcal{R}$
+\(2\pi \mathcal{R}\)
 
 
 
