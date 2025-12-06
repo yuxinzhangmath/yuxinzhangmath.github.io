@@ -11,19 +11,11 @@ My current research focuses on quantum algorithms and quantum complexity theory,
 
 **I'm currently looking for a postdoc position.**
 
-Research
-======
-
-# Research
-
-#Research
-
-## Test
-test
 
 
-Papers
-======
+# Papers
+
+
 
 
 Create content & metadata
