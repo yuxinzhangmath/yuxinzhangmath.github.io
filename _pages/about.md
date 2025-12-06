@@ -34,3 +34,6 @@ with C. Shao
 
 
 ## Contact
+
+### Contact
+Email: zhangyuxin [at] amss.ac.cn
