@@ -21,4 +21,12 @@ author_profile: true
 * University of California, Berkeley
    * Exchange Student, Fall 2019
 
-# test
+
+# Selected Awards
+
+* AMSS International Research Collaboration Scholarship, 2025 - 2026
+* Model Student Award, AMSS, 2023 - 2025
+* Outstanding Graduate, Sun Yat-sen University, Jun 2021
+* Second Prize, Outstanding Student Scholarship, Sun Yat-sen University, 2018 - 2020
+* First Prize, Outstanding Student Scholarship, Sun Yat-sen University, 2017 - 2018
+* Zhong Youchu Special Scholarship for Outstanding Student in Math, Sun Yat-sen University, 2017 - 2018
