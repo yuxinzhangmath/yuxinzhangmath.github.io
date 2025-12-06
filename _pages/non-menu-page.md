@@ -1,10 +1,10 @@
 ---
-permalink: /non-menu-page/
+permalink: /experience/
 title: "Page not in menu"
 author_profile: true
 redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+  - "/experience/"
+  - "/experience.html"
 ---
 
 This is a page not in the menu. You can use markdown in this page.
