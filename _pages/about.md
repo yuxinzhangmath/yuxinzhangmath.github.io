@@ -23,7 +23,12 @@ with X. Wang, S. Hazra, T. Li, C. Shao, S. Chakraborty<br>
 [arXiv:2510.06851](https://arxiv.org/abs/2510.06851)
 
 <b>Quantum singular value transformation without block encodings: Near-optimal complexity with minimal ancilla</b><br>
-with 
+with S. Chakraborty, S. Hazra, T. Li, C. Shao, X. Wang<br>
+[arXiv:2504.02385](https://arxiv.org/abs/2504.02385)
+
+<b>Quantum spectral method for gradient and Hessian estimation$^{\star}$</b><br>
+with C. Shao
+[arXiv:2407.03833](https://arxiv.org/abs/2407.03833)
 
 
 
