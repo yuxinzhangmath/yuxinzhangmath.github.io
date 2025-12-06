@@ -18,17 +18,9 @@ My current research focuses on quantum algorithms and quantum complexity theory,
 *Authors are listed alphabetically unless marked with$^\star$*
 
 
-* Randomized quantum singular value transformation$^{\star}$
-
-- Randomized quantum singular value transformation$^{\star}$
-    - Randomized quantum singular value transformation$^{\star}$
-
-* Randomized quantum singular value transformation$^{\star}$
-    * Randomized quantum singular value transformation$^{\star}$
-
 <b>Randomized quantum singular value transformation$^{\star}$</b><br>
-Robin Kothari, Ryan O'Donnell, <b>Kewen Wu</b><br>
-[arXiv](https://arxiv.org/abs/2510.07515) &nbsp;&nbsp;&nbsp;&nbsp;
+with Xinzhao Wang, Soumyabrata Hazra, Tongyang Li, Changpeng Shao, Shantanav Chakraborty<br>
+[arXiv:2510.06851](https://arxiv.org/abs/2510.06851) &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
