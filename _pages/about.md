@@ -9,14 +9,16 @@ redirect_from:
 
 Getting started
 
----
-permalink: /
-title: "title1"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+Research
+======
+
+test
+test
+
+test
+
+Papers
+======
 
 title: "title"
 ------
