@@ -8,7 +8,15 @@ redirect_from:
 ---
 
 Getting started
-title: "title"
+
+---
+permalink: /
+title: "title1"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 title: "title"
 ------
