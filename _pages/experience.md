@@ -17,7 +17,7 @@ author_profile: true
 
 * Sun Yat-sen University
    * B.S. in Mathematics (Outstanding Graduate), School of Mathematics, Aug 2017 - Jun 2021
-   * National Program for Top-notch Undergraduate in Basic Sciences, Yat-sen Honor School, 2018 - 2021
+   * National Program for Top-notch Undergraduate in Basic Sciences, Yat-Sen Honor School, 2018 - 2021
  
 * University of California, Berkeley
    * Exchange Student, Fall 2019
