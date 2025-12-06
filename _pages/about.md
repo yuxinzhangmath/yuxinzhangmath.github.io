@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Getting started
+I'm a Ph.D. candidate at [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn) (AMSS, CAS).
 
 Research
 ======
