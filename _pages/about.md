@@ -19,10 +19,10 @@ My current research focuses on quantum algorithms and quantum complexity theory,
 
 
 <b>Randomized quantum singular value transformation$^{\star}$</b><br>
-with Xinzhao Wang, Soumyabrata Hazra, Tongyang Li, Changpeng Shao, Shantanav Chakra Chakraborty<br>
+with X. Wang, S. Hazra, T. Li, C. Shao, S. Chakraborty<br>
 [arXiv:2510.06851](https://arxiv.org/abs/2510.06851)
 
-<b>Quantum singular value transformation without block encodings: Near-optimal complexity with minimal ancilla<b><br>
+<b>Quantum singular value transformation without block encodings: Near-optimal complexity with minimal ancilla</b><br>
 with 
 
 
