@@ -17,6 +17,13 @@ zhangyuxin *at* amss.ac.cn
 # Papers
 *Authors are listed alphabetically unless marked with$^\star$*
 
+<b>Elfs, transducers and quantum walks</b><br>
+with S. Apers, J. Roland<br>
+
+<b>DQC1-completeness of normalized trace estimation for functions of log-local Hamiltonians</b><br>
+with Z. Ji, T. Li, C. Shao, X. Wang<br>
+[arXiv:2604.01519](https://arxiv.org/abs/2604.01519)
+
 <b>Randomized quantum singular value transformation$^{\star}$</b><br>
 with X. Wang, S. Hazra, T. Li, C. Shao, S. Chakraborty<br>
 [arXiv:2510.06851](https://arxiv.org/abs/2510.06851)
