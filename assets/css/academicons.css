@@ -177,10 +177,15 @@
   content: "\e9e7";
 }
 .ai-google-scholar:before {
+  content: "\e828";
+}
+.ai-google-scholar-square:before {
+  content: "\e829";
+/* .ai-google-scholar:before {
   content: "\e9d4";
 }
 .ai-google-scholar-square:before {
-  content: "\e9f9";
+  content: "\e9f9"; */
 }
 .ai-hal:before {
   content: "\e92c";
