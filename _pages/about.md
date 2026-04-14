@@ -11,7 +11,7 @@ My current research focuses on quantum algorithms and quantum complexity theory,
 
 **I'm currently looking for a postdoc position :)**
 
-zhangyuxin *at* amss.ac.cn
+zhangyuxin *at* amss.ac.cn<br>
 zhangyuxin *dot* math *at* gmail.com
 
 
