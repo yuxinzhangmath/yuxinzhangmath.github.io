@@ -19,10 +19,10 @@ zhangyuxin *dot* math *at* gmail.com
 *Authors are listed alphabetically unless marked with$^\star$*
 
 <b>Elfs, transducers and quantum walks</b><br>
-with S. Apers, J. Roland<br>
+with Simon Apers, Jérémie Roland<br>
 
 <b>DQC1-completeness of normalized trace estimation for functions of log-local Hamiltonians</b><br>
-with Z. Ji, T. Li, C. Shao, X. Wang<br>
+with Zhengfeng Ji, Tongyang Li, Changpeng Shao, Xinzhao Wang<br>
 [arXiv:2604.01519](https://arxiv.org/abs/2604.01519)
 
 <b>Randomized quantum singular value transformation$^{\star}$</b><br>
