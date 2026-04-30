@@ -26,15 +26,15 @@ with Zhengfeng Ji, Tongyang Li, Changpeng Shao, Xinzhao Wang<br>
 [arXiv:2604.01519](https://arxiv.org/abs/2604.01519)
 
 <b>Randomized quantum singular value transformation$^{\star}$</b><br>
-with X. Wang, S. Hazra, T. Li, C. Shao, S. Chakraborty<br>
+with Xinzhao Wang, Soumyabrata Hazra, Tongyang Li, Changpeng Shao, Shantanav Chakraborty<br>
 [arXiv:2510.06851](https://arxiv.org/abs/2510.06851)
 
 <b>Quantum singular value transformation without block encodings: Near-optimal complexity with minimal ancilla</b><br>
-with S. Chakraborty, S. Hazra, T. Li, C. Shao, X. Wang<br>
+with Shantanav Chakraborty, Soumyabrata Hazra, Tongyang Li, Changpeng Shao, Xinzhao Wang<br>
 [arXiv:2504.02385](https://arxiv.org/abs/2504.02385)
 
 <b>Quantum spectral method for gradient and Hessian estimation$^{\star}$</b><br>
-with C. Shao<br>
+with Changpeng Shao<br>
 [arXiv:2407.03833](https://arxiv.org/abs/2407.03833)
 
 
