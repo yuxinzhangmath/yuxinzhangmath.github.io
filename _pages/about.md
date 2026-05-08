@@ -35,7 +35,7 @@ with Shantanav Chakraborty, Soumyabrata Hazra, Tongyang Li, Changpeng Shao, Xinz
 
 <b>Quantum spectral method for gradient and Hessian estimation$^{\star}$</b><br>
 with Changpeng Shao<br>
-[Journal of Computer and System Sciences 160 (2026), 103812](https://doi.org/10.1016/j.jcss.2026.103812).
+[*Journal of Computer and System Sciences* 160 (2026), 103812](https://doi.org/10.1016/j.jcss.2026.103812).
 [arXiv:2407.03833](https://arxiv.org/abs/2407.03833)
 
 
