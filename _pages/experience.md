@@ -13,7 +13,7 @@ author_profile: true
    * Supervisors: [Changpeng Shao](https://changpeng-shao.github.io/) and Hongbo Li
  
 * Université libre de Bruxelles
-   * Visiting PhD Student, with [Jérémie Roland](http://quic.ulb.ac.be/members/jroland) and [Simon Apers](https://simonapers.github.io), May 2025 - 
+   * Visiting PhD Student, with [Jérémie Roland](http://quic.ulb.ac.be/members/jroland) and [Simon Apers](https://simonapers.github.io), May 2025 - Apr 2026
 
 * Sun Yat-sen University
    * B.S. in Mathematics (Outstanding Graduate), School of Mathematics, Aug 2017 - Jun 2021
