@@ -20,6 +20,7 @@ zhangyuxin *dot* math *at* gmail.com
 
 <b>Elfs, transducers and quantum walks</b><br>
 with Simon Apers, Jérémie Roland<br>
+[arXiv:2605.30013](https://arxiv.org/abs/2605.30013)
 
 <b>DQC1-completeness of normalized trace estimation for functions of log-local Hamiltonians</b><br>
 with Zhengfeng Ji, Tongyang Li, Changpeng Shao, Xinzhao Wang<br>
