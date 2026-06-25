@@ -6,8 +6,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate at [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn) (AMSS, CAS).
-I'm very fortunate to be advised by [Changpeng Shao](https://changpeng-shao.github.io/) and Hongbo Li.
+I received my Ph.D. from [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn) (AMSS, CAS).
+I am very fortunate to have been advised by [Changpeng Shao](https://changpeng-shao.github.io/) and Hongbo Li.
 My current research focuses on quantum algorithms and quantum complexity theory, especially query complexity. I am also broadly interested in other topics in quantum information science, particularly those with deep mathematical foundations, with the overarching goal of better understanding the structure of quantum advantage.
 
 
