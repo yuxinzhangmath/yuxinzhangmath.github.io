@@ -9,7 +9,7 @@ author_profile: true
 # Education
 
 * Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-   * Ph.D. in Mathematics, Aug 2021 - 
+   * Ph.D. in Mathematics, Aug 2021 - Jun 2026
    * Supervisors: [Changpeng Shao](https://changpeng-shao.github.io/) and Hongbo Li
  
 * Université libre de Bruxelles
