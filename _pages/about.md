@@ -19,12 +19,17 @@ zhangyuxin *dot* math *at* gmail.com
 # Papers
 *Authors are listed alphabetically unless marked with$^\star$*
 
+<b>Low-ancilla block encodings via Hamiltonian simulation$^{\star}$</b><br>
+with Changpeng Shao<br>
+[arXiv:2607.01843](https://arxiv.org/abs/2607.01843)
+
 <b>Elfs, transducers and quantum walks</b><br>
 with Simon Apers, Jérémie Roland<br>
 [arXiv:2605.30013](https://arxiv.org/abs/2605.30013)
 
 <b>DQC1-completeness of normalized trace estimation for functions of log-local Hamiltonians</b><br>
 with Zhengfeng Ji, Tongyang Li, Changpeng Shao, Xinzhao Wang<br>
+accepted by 67th IEEE Symposium on Foundations of Computer Science (FOCS 2026).
 [arXiv:2604.01519](https://arxiv.org/abs/2604.01519)
 
 <b>Randomized quantum singular value transformation$^{\star}$</b><br>
