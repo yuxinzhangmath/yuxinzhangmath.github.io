@@ -29,7 +29,7 @@ with Simon Apers, Jérémie Roland<br>
 
 <b>DQC1-completeness of normalized trace estimation for functions of log-local Hamiltonians</b><br>
 with Zhengfeng Ji, Tongyang Li, Changpeng Shao, Xinzhao Wang<br>
-accepted by 67th IEEE Symposium on Foundations of Computer Science (FOCS 2026).
+accepted by 67th IEEE Symposium on Foundations of Computer Science ([FOCS 2026](https://focs.computer.org/2026/)).
 [arXiv:2604.01519](https://arxiv.org/abs/2604.01519)
 
 <b>Randomized quantum singular value transformation$^{\star}$</b><br>
