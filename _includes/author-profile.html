@@ -1,7 +1,8 @@
 {% include base_path %}
 
 {% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% as
+sign author = site.author %}
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
@@ -48,6 +49,14 @@
         <!-- <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li> -->
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap icon-pad-right" aria-hidden="true"></i>Google Scholar</a></li>
       {% endif %}
+      {% if author.mathscinet %}
+        <li>
+          <a href="{{ author.mathscinet }}">
+            <i class="fas fa-fw fa-book-open icon-pad-right" aria-hidden="true"></i>
+            MathSciNet
+          </a>
+        </li>
+        {% endif %}
       {% if author.inspire-hep %}
         <li><a href="{{ author.inspire-hep }}"><i class="ai ai-inspire ai-fw icon-pad-right"></i>INSPIRE-HEP</a></li>
       {% endif %}      
