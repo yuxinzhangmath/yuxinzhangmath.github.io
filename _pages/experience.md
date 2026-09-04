@@ -8,20 +8,28 @@ author_profile: true
 
 # Education
 
-* Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+* **Academy of Mathematics and Systems Science, Chinese Academy of Sciences**
    * Ph.D. in Mathematics, Aug 2021 - Jun 2026
    * Supervisors: [Changpeng Shao](https://changpeng-shao.github.io/) and Hongbo Li
  
-* Université libre de Bruxelles
+* **Université libre de Bruxelles**
    * Visiting PhD Student, with [Jérémie Roland](http://quic.ulb.ac.be/members/jroland) and [Simon Apers](https://simonapers.github.io), May 2025 - Apr 2026
 
-* Sun Yat-sen University
+* **Sun Yat-sen University**
    * B.S. in Mathematics (Outstanding Graduate), School of Mathematics, Aug 2017 - Jun 2021
    * National Program for Top-notch Undergraduate in Basic Sciences, Yat-Sen Honor School, 2018 - 2021
  
-* University of California, Berkeley
+* **University of California, Berkeley**
    * Exchange Student, Fall 2019
 
+
+# Positions
+
+* **Alfréd Rényi Institute of Mathematics**
+   * Postdoctoral research fellow, working with András Gilyén, Sept 2026 - Present
+
+* **Academy of Mathematics and Systems Science, Chinese Academy of Sciences**
+   * Visiting scholar, hosted by Changpeng Shao, Jul 2026 - Aug 2026
 
 # Selected Awards
 
