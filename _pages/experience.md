@@ -26,10 +26,10 @@ author_profile: true
 # Positions
 
 * **Alfréd Rényi Institute of Mathematics**
-   * Postdoctoral research fellow, working with András Gilyén, Sept 2026 - Present
+   * Postdoctoral research fellow, working with [András Gilyén](https://gilyen.hu/), Sept 2026 - Present
 
 * **Academy of Mathematics and Systems Science, Chinese Academy of Sciences**
-   * Visiting scholar, hosted by Changpeng Shao, Jul 2026 - Aug 2026
+   * Visiting scholar, hosted by [Changpeng Shao](https://changpeng-shao.github.io/), Jul 2026 - Aug 2026
 
 # Selected Awards
 
