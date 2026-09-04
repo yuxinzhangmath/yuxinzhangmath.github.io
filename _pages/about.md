@@ -6,14 +6,16 @@ redirect_from:
   - /about.html
 ---
 
+I am a postdoctoral research fellow at the [Alfréd Rényi Institute of Mathematics](https://www.renyi.hu/en), working with [András Gilyén](https://gilyen.hu/).
 I received my Ph.D. from the [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn) (AMSS, CAS).
 I am very fortunate to have been advised by [Changpeng Shao](https://changpeng-shao.github.io/) and Hongbo Li.
+
 My current research focuses on quantum algorithms and quantum complexity theory, especially query complexity. I am also broadly interested in other topics in quantum information science, particularly those with deep mathematical foundations, with the overarching goal of better understanding the structure of quantum advantage.
 
 
 
-zhangyuxin *at* amss.ac.cn<br>
-zhangyuxin *dot* math *at* gmail.com  
+zhang *dot* yuxin *at* renyi *dot* hu<br>
+zhangyuxin *at* amss *dot* ac *dot* cn
 
 
 # Papers
