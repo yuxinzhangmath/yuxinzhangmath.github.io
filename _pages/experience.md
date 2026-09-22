@@ -43,5 +43,5 @@ author_profile: true
 
 # Refereeing
 
-* Journal: [Quantum](https://quantum-journal.org/), [npj Quantum Information](https://www.nature.com/npjqi/)
+* Journal: [Quantum](https://quantum-journal.org/), [npj Quantum Information](https://www.nature.com/npjqi/), [ACM Transactions on Quantum Computing](https://dl.acm.org/journal/tqc)
 * Conference: [STOC'26](https://acm-stoc.org/stoc2026/), [QIP'26](https://qip2026.lu.lv/), [QIP'25](https://rsvp.duke.edu/event/qip2025/home), [AQIS'25](http://aqis-conf.org/2025/)
