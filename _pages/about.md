@@ -14,8 +14,8 @@ My current research focuses on quantum algorithms and quantum complexity theory,
 
 
 
+zhangyuxin *dot* math *at* gmail *dot* com <br>
 zhang *dot* yuxin *at* renyi *dot* hu<br>
-zhangyuxin *at* amss *dot* ac *dot* cn
 
 
 # Papers
