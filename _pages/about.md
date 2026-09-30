@@ -21,7 +21,7 @@ zhang *dot* yuxin *at* renyi *dot* hu<br>
 # Papers
 *Authors are listed alphabetically unless marked with$^\star$*
 
-<b>Low-ancilla block encodings via Hamiltonian simulation$^{\star}$</b><br>
+<b>Quantum space-depth tradeoffs for coherent block encodings$^{\star}$</b><br>
 with Changpeng Shao<br>
 [arXiv:2607.01843](https://arxiv.org/abs/2607.01843)
 
