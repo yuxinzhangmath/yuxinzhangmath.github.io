@@ -21,6 +21,10 @@ zhang *dot* yuxin *at* renyi *dot* hu<br>
 # Papers
 *Authors are listed alphabetically unless marked with$^\star$*
 
+<b>Transducer-based linear combination of unitaries: theory and applications</b><br>
+with Dong An, Dekuan Dong, Changpeng Shao, Chenhao Zhao<br>
+[arXiv:2609.40073](https://arxiv.org/abs/2609.40073)
+
 <b>Quantum space-depth tradeoffs for coherent block encodings$^{\star}$</b><br>
 with Changpeng Shao<br>
 [arXiv:2607.01843](https://arxiv.org/abs/2607.01843)
