@@ -21,6 +21,10 @@ zhang *dot* yuxin *at* renyi *dot* hu<br>
 # Papers
 *Authors are listed alphabetically unless marked with$^\star$*
 
+<b>Exponential quantum-classical query separations for cyclic Forrelation</b><br>
+with Changpeng Shao<br>
+[arXiv:2610.41694](https://arxiv.org/abs/2610.41694)
+
 <b>Transducer-based linear combination of unitaries: theory and applications</b><br>
 with Dong An, Dekuan Dong, Changpeng Shao, Chenhao Zhao<br>
 [arXiv:2609.40073](https://arxiv.org/abs/2609.40073)
