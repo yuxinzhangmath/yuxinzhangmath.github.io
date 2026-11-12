@@ -43,7 +43,7 @@ author_profile: true
 
 # Talks
 
-* **[DQC1-completeness of normalized trace estimation for functions of log-local Hamiltonians](files/slides/DQC1_FOCS2026.pdf)**
+**DQC1-completeness of normalized trace estimation for functions of log-local Hamiltonians** [slides](/files/slides/DQC1_FOCS2026.pdf)
    * Symposium on Foundations of Computer Science (FOCS), New York, November 2026
 
 * **Quantum singular value transformation without block encodings**
@@ -54,8 +54,9 @@ author_profile: true
    * Yau Mathematical Sciences Center, Tsinghua University, April 2025
 
 * **Quantum spectral method for gradient and Hessian estimation**
-   * 14th Conference on Computer Mathematics, June 2024
    * Yau Mathematical Sciences Center, Tsinghua University, December 2024
+   * 14th Conference on Computer Mathematics, June 2024
+  
    
 
 # Refereeing
