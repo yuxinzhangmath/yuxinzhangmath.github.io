@@ -49,13 +49,13 @@ Symposium on Foundations of Computer Science (FOCS), New York, November 2026
 <b>Quantum singular value transformation without block encodings</b><br>
 Alfréd Rényi Institute of Mathematics, January 2026<br>
 Institut de Recherche en Informatique Fondamentale (IRIF), January 2026<br>
-   * University of Hong Kong, online, December 2025
-   * QuIC, Université libre de Bruxelles, June 2025
-   * Yau Mathematical Sciences Center, Tsinghua University, April 2025
+University of Hong Kong, online, December 2025<br>
+QuIC, Université libre de Bruxelles, June 2025<br>
+Yau Mathematical Sciences Center, Tsinghua University, April 2025<br>
 
-* **Quantum spectral method for gradient and Hessian estimation**
-   * Yau Mathematical Sciences Center, Tsinghua University, December 2024
-   * 14th Conference on Computer Mathematics, June 2024
+<b>Quantum spectral method for gradient and Hessian estimation</b><br>
+Yau Mathematical Sciences Center, Tsinghua University, December 2024<br>
+14th Conference on Computer Mathematics, June 2024<br>
   
    
 
