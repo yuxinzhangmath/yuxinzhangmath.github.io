@@ -43,7 +43,7 @@ author_profile: true
 
 # Talks
 
-* **DQC1-completeness of normalized trace estimation for functions of log-local Hamiltonians**
+* **[DQC1-completeness of normalized trace estimation for functions of log-local Hamiltonians](files/slides/DQC1_FOCS2026.pdf)**
    * Symposium on Foundations of Computer Science (FOCS), New York, November 2026
 
 * **Quantum singular value transformation without block encodings**
