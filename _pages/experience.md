@@ -46,9 +46,9 @@ author_profile: true
 <b>DQC1-completeness of normalized trace estimation for functions of log-local Hamiltonians</b> [[slides]](/files/slides/DQC1_FOCS2026.pdf)<br>
 Symposium on Foundations of Computer Science (FOCS), New York, November 2026
 
-* **Quantum singular value transformation without block encodings**
-   * Alfréd Rényi Institute of Mathematics, January 2026
-   * Institut de Recherche en Informatique Fondamentale (IRIF), January 2026
+<b>Quantum singular value transformation without block encodings</b><br>
+Alfréd Rényi Institute of Mathematics, January 2026<br>
+Institut de Recherche en Informatique Fondamentale (IRIF), January 2026<br>
    * University of Hong Kong, online, December 2025
    * QuIC, Université libre de Bruxelles, June 2025
    * Yau Mathematical Sciences Center, Tsinghua University, April 2025
