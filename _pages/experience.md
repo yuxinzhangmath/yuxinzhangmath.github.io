@@ -41,6 +41,23 @@ author_profile: true
 * Zhong Youchu Special Scholarship for Outstanding Student in Math, Sun Yat-sen University, 2017 - 2018
 
 
+# Talks
+
+* **DQC1-completeness of normalized trace estimation for functions of log-local Hamiltonians**
+   * [Symposium on Foundations of Computer Science (FOCS)](https://focs.computer.org/2026/), New York, November 2026
+
+* **Quantum singular value transformation without block encodings**
+   * Alfréd Rényi Institute of Mathematics, January 2026
+   * Institut de Recherche en Informatique Fondamentale (IRIF), January 2026
+   * University of Hong Kong, online, December 2025
+   * QuIC, Université libre de Bruxelles, June 2025
+   * Yau Mathematical Sciences Center, Tsinghua University, April 2025
+
+* **Quantum spectral method for gradient and Hessian estimation**
+   * 14th Conference on Computer Mathematics, June 2024
+   * Yau Mathematical Sciences Center, Tsinghua University, December 2024
+   
+
 # Refereeing
 
 * Journal: [Quantum](https://quantum-journal.org/), [npj Quantum Information](https://www.nature.com/npjqi/), [ACM Transactions on Quantum Computing](https://dl.acm.org/journal/tqc)
