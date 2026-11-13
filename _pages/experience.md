@@ -5,6 +5,16 @@ permalink: /experience/
 author_profile: true
 ---
 
+<style>
+#positions,
+#selected-awards,
+#talks,
+#refereeing {
+  margin-top: 36px;
+}
+</style>
+
+
 
 # Education
 
