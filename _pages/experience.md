@@ -21,6 +21,7 @@ author_profile: true
  
 * **University of California, Berkeley**
    * Exchange Student, Fall 2019
+<br>
 
 
 
